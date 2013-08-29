@@ -1,0 +1,59 @@
+Problemet er ikke Hibernate!
+
+Problem er
+
+Stein Kåre Skytteren
+@skskytteren
+http://blog.skytteren.no
+http://timily.org
+http://isitdown.no
+
+Web applikasjoner
+
+Steg for steg
+
+1
+
+Hello World!
+
+HTML
+
+index.html
+
+<h1>Hello world</h1>
+
+2
+
+Sminke!
+
+Style
+
+CSS
+
+Twitter Bootstrap
+
++/-
+
+CSS
+
+3
+
+Skape verdien
+
+SØK
+
+GET
+
+HTML
+
+JavaScript?
+
+4
+
+Trøkke data inn
+
+Form
+
+POST
+
+
